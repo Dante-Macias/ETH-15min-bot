@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+data/*.csv
+data/*.csv.tmp
+config.env
+.env
